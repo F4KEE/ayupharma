@@ -1,2 +1,1 @@
-# ayupharma
-Medicine delivery website
+## AYU PHARMA
